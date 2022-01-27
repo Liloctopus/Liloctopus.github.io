@@ -352,7 +352,7 @@
         SubmitResults();
         if (score <= 49) return '你就是歌姬吧？';
         if (score <= 99) return '摩多摩多';
-        if (score == 114) return '415' 
+        if (score == 114) return '514' 
         if (score <= 149) return '斯国一';
         if (score == 191) return '9810'
         if (score <= 199) return '您';
